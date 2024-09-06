@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+    .primeira-sessão{
+    background-color: green;
+    width: 500px;
+    height: 500px;
+
+        div{
+      background-color: yellow; 
+      width: 50vw;
+      height: 50vh; 
+        }
+}
+
+    .segunda-sessao{
+        background-color: pink;
+        width: 100vh;
+        height: 100vw;
+
+        div{
+            background-color: red;
+           height: 200px;
+           width: 200px;
+
+        }
+}
+
